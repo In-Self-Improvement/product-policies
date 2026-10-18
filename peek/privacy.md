@@ -1,3 +1,8 @@
+---
+layout: default
+title: Peek Privacy Policy
+---
+
 # Peek Privacy Policy
 
 Effective date: October 19, 2026
